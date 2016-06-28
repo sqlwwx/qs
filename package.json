@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/ljharb/qs.git"
   },
+  "bin": {
+    "qs": "bin/qs"
+  },
   "main": "lib/index.js",
   "contributors": [
     {
